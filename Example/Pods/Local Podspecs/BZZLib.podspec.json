@@ -1,0 +1,31 @@
+{
+  "name": "BZZLib",
+  "version": "0.1.0",
+  "summary": "A short description of BZLib.",
+  "description": "An optional longer description of BZLib\n\n* Markdown format.\n* Don't worry about the indent, we strip it!",
+  "homepage": "https://github.com/wyw1984/BZZLib",
+  "license": "MIT",
+  "authors": {
+    "qq2126724184": "2126724184@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wyw1984/BZZLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "BZZLib/Classes/**/*.{h,m}",
+  "resource_bundles": {
+    "BZZLib": [
+      "BZZLib/Assets/*.png"
+    ]
+  },
+  "public_header_files": "BZZLib/Classes/**/*.h",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+framework module BZZLib {
+  umbrella header "BZZLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
